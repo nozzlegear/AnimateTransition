@@ -1,10 +1,6 @@
 /*
 * Set of default transitions. Inspired by the Moobile page transitions: http://moobilejs.com
 */
-html, body {
-    height: 100%;
-    overflow: hidden;
-}
 
 body {
     margin: 0;
