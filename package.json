@@ -32,10 +32,7 @@
     "animation"
   ],
   "license": "MIT",
-  "main": [
-    "src/animateTransition.min.js",
-    "src/animateTransition.source.js"
-  ],
+  "main": "src/animateTransition.source.js",
   "name": "animate-transition",
   "private": false,
   "readmeFilename": "README.md",
